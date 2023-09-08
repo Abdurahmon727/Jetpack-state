@@ -1,0 +1,4 @@
+
+interface UiState
+
+interface UiEvent
